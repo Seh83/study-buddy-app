@@ -4,6 +4,7 @@ let currentFlashCardIndex = 0;
 let quizData = [];
 const quizFiles = ["q1.json"];
 const flashCardFiles = [
+  "fc8.json",
   "fc1.json",
   "fc2.json",
   "fc3.json",
