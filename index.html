@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Rachel's Study Buddy</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header>
+      <h1>Rachel's Study Buddy</h1>
+      <nav>
+        <button id="quiz-tab" class="tab-button active">Quiz</button>
+        <button id="flashcards-tab" class="tab-button">Flash Cards</button>
+      </nav>
+    </header>
+
+    <main>
+      <section id="quiz-section" class="tab-content active">
+        <div id="quiz-topics-container"></div>
+      </section>
+
+      <section id="flashcards-section" class="tab-content">
+        <div id="flashcards-topics-container"></div>
+      </section>
+
+      <section id="quiz-page" class="tab-content">
+        <div class="navigation">
+          <button id="main-quiz-page" class="nav-btn left">
+            Main Quiz Page
+          </button>
+          <button id="next-quiz" class="nav-btn right hidden">
+            Load Next Quiz
+          </button>
+        </div>
+        <form id="quiz-form"></form>
+        <button type="button" id="submit-quiz" class="submit-btn">
+          Submit Quiz
+        </button>
+      </section>
+
+      <section id="flashcards-page" class="tab-content">
+        <div class="navigation">
+          <button id="main-flash-page" class="nav-btn left">
+            Main Flash Cards Page
+          </button>
+          <button id="next-flash" class="nav-btn right hidden">
+            Load Next Flash Cards
+          </button>
+        </div>
+        <div id="flashcard-container"></div>
+      </section>
+    </main>
+
+    <script src="app.js"></script>
+  </body>
+</html>

@@ -1,0 +1,25 @@
+{
+  "title": "Opioid Use Disorder (OUD)",
+  "cards": [
+    {
+      "id": 95,
+      "question": "What are the risk factors for Opioid Use Disorder (OUD)?",
+      "answer": "Genetic predisposition, co-occurring mental health conditions (e.g., depression, PTSD), chronic pain requiring long-term opioid prescriptions, exposure to high-prescribing areas, and adverse childhood experiences."
+    },
+    {
+      "id": 96,
+      "question": "What are the clinical manifestations of Opioid Use Disorder (OUD)?",
+      "answer": "Physical signs: Tolerance, withdrawal symptoms (e.g., muscle aches, anxiety, insomnia), small pupils, respiratory depression; Behavioral signs: Drug-seeking behavior, neglect of responsibilities; Psychological signs: Cravings, mood swings, preoccupation with obtaining opioids."
+    },
+    {
+      "id": 97,
+      "question": "What are the nursing interventions for Opioid Use Disorder (OUD)?",
+      "answer": "Assessment and monitoring for withdrawal symptoms, administering medications (e.g., methadone, buprenorphine), providing education on harm reduction strategies, and connecting patients to support resources."
+    },
+    {
+      "id": 98,
+      "question": "What are the treatment approaches for Opioid Use Disorder (OUD)?",
+      "answer": "Medication-assisted treatment (MAT) with methadone, buprenorphine, or naltrexone; behavioral therapies like CBT; harm reduction strategies; and peer support groups like Narcotics Anonymous."
+    }
+  ]
+}

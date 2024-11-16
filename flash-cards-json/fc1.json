@@ -1,0 +1,130 @@
+{
+  "title": "Medications for Borderline Personality Disorder",
+  "cards": [
+    {
+      "id": 1,
+      "question": "What is the purpose of mood stabilizers in treating Borderline Personality Disorder?",
+      "answer": "Mood stabilizers are used to help manage mood swings and reduce impulsive or self-destructive behaviors often associated with BPD."
+    },
+    {
+      "id": 2,
+      "question": "What are the indications for Lithium in BPD treatment?",
+      "answer": "Lithium helps stabilize mood, especially for managing impulsivity and aggression."
+    },
+    {
+      "id": 3,
+      "question": "What are some contraindications for Lithium?",
+      "answer": "Renal or thyroid disease, dehydration, significant cardiovascular disease."
+    },
+    {
+      "id": 4,
+      "question": "What are the side effects of Lithium?",
+      "answer": "Nausea, tremor, weight gain, polyuria, hypothyroidism, and potential toxicity (monitoring required)."
+    },
+    {
+      "id": 5,
+      "question": "What are the indications for Lamotrigine in BPD treatment?",
+      "answer": "Lamotrigine stabilizes mood and can help manage depressive episodes."
+    },
+    {
+      "id": 6,
+      "question": "What are some contraindications for Lamotrigine?",
+      "answer": "Hypersensitivity to the drug; use with caution in individuals with liver impairment."
+    },
+    {
+      "id": 7,
+      "question": "What are the side effects of Lamotrigine?",
+      "answer": "Rash (including the potentially serious Stevens-Johnson syndrome), dizziness, blurred vision, headaches."
+    },
+    {
+      "id": 8,
+      "question": "What is the purpose of atypical antipsychotics in treating BPD?",
+      "answer": "Atypical antipsychotics are used to help manage symptoms of impulsivity, aggression, and severe mood swings."
+    },
+    {
+      "id": 9,
+      "question": "What are the indications for Aripiprazole in BPD treatment?",
+      "answer": "Aripiprazole is used to manage aggression, mood swings, and emotional dysregulation."
+    },
+    {
+      "id": 10,
+      "question": "What are some contraindications for Aripiprazole?",
+      "answer": "Hypersensitivity to aripiprazole; use with caution in individuals with cardiovascular conditions."
+    },
+    {
+      "id": 11,
+      "question": "What are the side effects of Aripiprazole?",
+      "answer": "Weight gain, insomnia, akathisia, headache, nausea, metabolic syndrome."
+    },
+    {
+      "id": 12,
+      "question": "What are the indications for Quetiapine in BPD treatment?",
+      "answer": "Quetiapine is used to reduce mood symptoms and impulsivity."
+    },
+    {
+      "id": 13,
+      "question": "What are some contraindications for Quetiapine?",
+      "answer": "Hypersensitivity to the drug; avoid in individuals with severe liver disease."
+    },
+    {
+      "id": 14,
+      "question": "What are the side effects of Quetiapine?",
+      "answer": "Sedation, weight gain, metabolic changes, dry mouth, dizziness."
+    },
+    {
+      "id": 15,
+      "question": "What is the purpose of antidepressants in BPD treatment?",
+      "answer": "Antidepressants do not specifically treat BPD, but they may help manage co-occurring symptoms of depression and anxiety."
+    },
+    {
+      "id": 16,
+      "question": "What are the indications for Sertraline in BPD treatment?",
+      "answer": "Sertraline is used for depressive symptoms and anxiety."
+    },
+    {
+      "id": 17,
+      "question": "What are some contraindications for Sertraline?",
+      "answer": "Hypersensitivity to sertraline; use with caution in individuals with bipolar disorder."
+    },
+    {
+      "id": 18,
+      "question": "What are the side effects of Sertraline?",
+      "answer": "Nausea, headache, insomnia, sexual dysfunction, risk of serotonin syndrome."
+    },
+    {
+      "id": 19,
+      "question": "What is the purpose of anxiolytics in BPD treatment?",
+      "answer": "Anxiolytics may be used on a short-term basis for acute anxiety but are generally avoided for long-term use due to dependency risk."
+    },
+    {
+      "id": 20,
+      "question": "What are the indications for Clonazepam in BPD treatment?",
+      "answer": "Clonazepam is used for acute episodes of anxiety."
+    },
+    {
+      "id": 21,
+      "question": "What are some contraindications for Clonazepam?",
+      "answer": "Substance abuse history; severe respiratory depression."
+    },
+    {
+      "id": 22,
+      "question": "What are the side effects of Clonazepam?",
+      "answer": "Drowsiness, dizziness, confusion, risk of dependency and withdrawal symptoms."
+    },
+    {
+      "id": 23,
+      "question": "What are the indications for Buspirone in BPD treatment?",
+      "answer": "Buspirone is used for long-term management of anxiety without the risk of dependency."
+    },
+    {
+      "id": 24,
+      "question": "What are some contraindications for Buspirone?",
+      "answer": "Severe liver or kidney impairment."
+    },
+    {
+      "id": 25,
+      "question": "What are the side effects of Buspirone?",
+      "answer": "Dizziness, nausea, headache, restlessness."
+    }
+  ]
+}

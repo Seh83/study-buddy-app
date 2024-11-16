@@ -1,0 +1,105 @@
+{
+  "title": "Dissociative Disorders",
+  "cards": [
+    {
+      "id": 26,
+      "question": "What is Dissociative Amnesia?",
+      "answer": "Dissociative amnesia is characterized by an inability to recall important personal information, usually related to traumatic or stressful events. This memory loss goes beyond normal forgetfulness."
+    },
+    {
+      "id": 27,
+      "question": "What are the types of Dissociative Amnesia?",
+      "answer": "Localized Amnesia: Inability to recall events during a specific period (e.g., following a traumatic event); Selective Amnesia: Recall of some, but not all, details of an event; Generalized Amnesia: Complete memory loss of one’s life history, often triggered by severe stress."
+    },
+    {
+      "id": 28,
+      "question": "What is the pathophysiology of Dissociative Amnesia?",
+      "answer": "The exact cause is unknown but is often linked to overwhelming stress or trauma, disrupting typical memory processing."
+    },
+    {
+      "id": 29,
+      "question": "What are the symptoms of Dissociative Amnesia?",
+      "answer": "Sudden memory gaps that can range from minutes to years, creating confusion and distress."
+    },
+    {
+      "id": 30,
+      "question": "What are the treatments for Dissociative Amnesia?",
+      "answer": "Psychotherapy (including trauma-focused approaches) and cognitive-behavioral therapy are used to help restore memory and coping mechanisms."
+    },
+    {
+      "id": 31,
+      "question": "What is Dissociative Fugue?",
+      "answer": "Dissociative fugue is a subtype of dissociative amnesia where a person suddenly travels away from their home or usual surroundings and may take on a new identity with no recollection of their past."
+    },
+    {
+      "id": 32,
+      "question": "What are the characteristics of Dissociative Fugue?",
+      "answer": "Unexpected travel or wandering; Confusion about one’s identity or assumption of a new identity; Duration may vary from hours to weeks or, in rare cases, longer."
+    },
+    {
+      "id": 33,
+      "question": "What is the pathophysiology of Dissociative Fugue?",
+      "answer": "Typically triggered by extreme stress or trauma, the brain may enter a 'flight' response, distancing the individual from their current identity to cope with distress."
+    },
+    {
+      "id": 34,
+      "question": "What are the symptoms of Dissociative Fugue?",
+      "answer": "Memory gaps, unplanned travel, adopting a new name or identity, confusion upon 'waking' from the fugue state."
+    },
+    {
+      "id": 35,
+      "question": "What are the treatments for Dissociative Fugue?",
+      "answer": "Psychotherapy, especially trauma-focused therapy, and support to reintegrate and recall past identity."
+    },
+    {
+      "id": 36,
+      "question": "What is Depersonalization/Derealization Disorder?",
+      "answer": "Individuals with this disorder experience episodes of detachment from their own body (depersonalization) or feel disconnected from their surroundings (derealization)."
+    },
+    {
+      "id": 37,
+      "question": "What are the types of Depersonalization/Derealization Disorder?",
+      "answer": "Depersonalization: Feeling detached from one’s thoughts, feelings, or body, often described as feeling like an observer of oneself; Derealization: The world feels unreal, distant, or dream-like, with altered perceptions of the environment."
+    },
+    {
+      "id": 38,
+      "question": "What is the pathophysiology of Depersonalization/Derealization Disorder?",
+      "answer": "Thought to involve disruptions in brain areas responsible for processing self-awareness and perception, often triggered by stress, trauma, or substance use."
+    },
+    {
+      "id": 39,
+      "question": "What are the symptoms of Depersonalization/Derealization Disorder?",
+      "answer": "Sensation of floating outside oneself, emotional numbness, distortions in perception (e.g., feeling that surroundings are hazy or distorted)."
+    },
+    {
+      "id": 40,
+      "question": "What are the treatments for Depersonalization/Derealization Disorder?",
+      "answer": "Cognitive-behavioral therapy, mindfulness practices, and grounding techniques are used to re-establish a sense of reality and self."
+    },
+    {
+      "id": 41,
+      "question": "What is Dissociative Identity Disorder (DID)?",
+      "answer": "DID is the presence of two or more distinct identity states or 'alters' that control an individual’s behavior at different times. Each identity may have unique characteristics, memories, behaviors, and even physiological responses."
+    },
+    {
+      "id": 42,
+      "question": "What are the characteristics of DID?",
+      "answer": "Each identity state can have its own name, age, gender, and background; Identities may be aware of each other or completely unaware, resulting in memory gaps when one identity 'switches' to another; Switching between identities can be triggered by stress or trauma reminders."
+    },
+    {
+      "id": 43,
+      "question": "What is the pathophysiology of DID?",
+      "answer": "Believed to be a result of severe, repeated trauma during early childhood, leading the brain to 'compartmentalize' memories and personality states to cope."
+    },
+    {
+      "id": 44,
+      "question": "What are the symptoms of DID?",
+      "answer": "Memory gaps, presence of distinct identities, voices or internal dialogue between identities, significant distress and impairment in daily functioning."
+    },
+    {
+      "id": 45,
+      "question": "What are the treatments for DID?",
+      "answer": "Long-term psychotherapy, particularly trauma-focused therapy, emphasizes integrating the identities into a cohesive whole. Hypnotherapy and cognitive-behavioral therapy may also be used."
+    }
+  ]
+}

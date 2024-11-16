@@ -1,0 +1,45 @@
+{
+  "title": "Stimulant Use Disorder",
+  "cards": [
+    {
+      "id": 83,
+      "question": "What are the risk factors for Stimulant Use Disorder?",
+      "answer": "Genetic predisposition, underlying mental health conditions, exposure to drug use in the community, poverty, unemployment, and early exposure to stimulants during adolescence."
+    },
+    {
+      "id": 84,
+      "question": "What is the etiology of Stimulant Use Disorder?",
+      "answer": "Neurobiological basis: Stimulants increase dopamine and norepinephrine levels, creating euphoria and reinforcing repetitive use. Behavioral conditioning: Positive reinforcement from drug effects and negative reinforcement from avoiding withdrawal symptoms."
+    },
+    {
+      "id": 85,
+      "question": "What are the clinical manifestations of Stimulant Use Disorder?",
+      "answer": "Physical signs: Dilated pupils, tachycardia, increased blood pressure, weight loss, tremors; Behavioral signs: Hyperactivity, risky behavior, paranoia; Psychological signs: Euphoria, anxiety, depression during withdrawal."
+    },
+    {
+      "id": 86,
+      "question": "What is the pathophysiology of Stimulant Use Disorder?",
+      "answer": "Neurotransmitter dysregulation: Stimulants increase dopamine in the brain’s reward pathway, leading to addiction. Chronic use depletes natural dopamine levels and damages neural pathways governing mood, cognition, and memory."
+    },
+    {
+      "id": 87,
+      "question": "What are some complications of Stimulant Use Disorder?",
+      "answer": "Cardiovascular: Hypertension, arrhythmias, myocardial infarction, stroke; Neurological: Seizures, intracranial hemorrhage; Psychiatric: Chronic anxiety, paranoia, stimulant-induced psychosis."
+    },
+    {
+      "id": 88,
+      "question": "What are some screening assessments for Stimulant Use Disorder?",
+      "answer": "Clinical interviews, standardized tools like DAST and ASI, physical exams, and laboratory tests (e.g., urine toxicology screening, blood tests for organ function)."
+    },
+    {
+      "id": 89,
+      "question": "What are the priority interventions for Stimulant Use Disorder?",
+      "answer": "Acute management: Monitor vital signs, provide supportive care for cardiovascular and neurological symptoms; Withdrawal management: Address crash symptoms like fatigue, depression; Long-term treatment: CBT, contingency management, peer support groups."
+    },
+    {
+      "id": 90,
+      "question": "What are the long-term treatment approaches for Stimulant Use Disorder?",
+      "answer": "Behavioral interventions (CBT, contingency management), peer support groups (e.g., Narcotics Anonymous), family counseling, and medications like modafinil or bupropion for withdrawal symptoms (off-label)."
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+/* General Styles */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background: #fdfdfd;
+  color: #333;
+}
+
+header {
+  background: #f8cdd0;
+  padding: 15px;
+  text-align: center;
+  color: #fff;
+  font-size: 1.8rem;
+  font-weight: bold;
+}
+
+nav {
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+}
+
+.tab-button {
+  background: #f8cdd0;
+  border: none;
+  padding: 15px 25px;
+  margin: 5px;
+  cursor: pointer;
+  border-radius: 30px;
+  color: #fff;
+  font-size: 1.2rem;
+  font-weight: bold;
+  transition: background 0.3s;
+}
+
+.tab-button.active {
+  background: #b19cd9;
+}
+
+.tab-content {
+  display: none;
+  padding: 20px;
+}
+
+.tab-content.active {
+  display: block;
+}
+
+/* Topic Cards */
+.card {
+  background: #e8f5e9;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  padding: 20px;
+  margin: 10px;
+  text-align: center;
+  font-size: 1.2rem;
+  cursor: pointer;
+  transition: transform 0.2s, border-color 0.3s;
+}
+
+.card:hover {
+  transform: scale(1.05);
+}
+
+/* Navigation Buttons */
+.navigation {
+  display: flex;
+  justify-content: space-between;
+}
+
+.nav-btn {
+  background: #b19cd9;
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 20px;
+  cursor: pointer;
+  font-size: 1rem;
+  font-weight: bold;
+}
+
+.nav-btn.hidden {
+  display: none;
+}
+
+/* Flashcards */
+.flashcard {
+  background: #e8f5e9;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  padding: 20px;
+  margin: 10px 0;
+  text-align: center;
+  font-size: 1.2rem;
+  cursor: pointer;
+}
+
+.flashcard .answer {
+  margin-top: 15px;
+  font-weight: normal; /* Ensures answer text appears clearly */
+  font-style: italic;
+}
+
+.flashcard .answer.hidden {
+  display: none; /* Toggled on and off for visibility */
+}
+
+.submit-btn {
+  background: #b19cd9;
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 20px;
+  font-size: 1.2rem;
+  font-weight: bold;
+  display: block;
+  margin: 20px auto;
+  cursor: pointer;
+  transition: background 0.3s;
+}
+
+.submit-btn:hover {
+  background: #a388c8;
+}
+
+.correct {
+  border: 3px solid #4caf50; /* Green for correct */
+}
+
+.incorrect {
+  border: 3px solid #f44336; /* Red for incorrect */
+}
+
+.question {
+  font-weight: bold;
+}

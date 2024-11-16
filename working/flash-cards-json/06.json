@@ -1,0 +1,25 @@
+{
+  "title": "Alcohol Use Disorder (AUD)",
+  "cards": [
+    {
+      "id": 91,
+      "question": "What are the risk factors for Alcohol Use Disorder (AUD)?",
+      "answer": "Genetic predisposition, exposure to heavy drinking in early life, mental health conditions (e.g., depression, anxiety), societal norms, chronic stress, and early initiation of drinking."
+    },
+    {
+      "id": 92,
+      "question": "What are the clinical manifestations of Alcohol Use Disorder (AUD)?",
+      "answer": "Physical signs: Tolerance, withdrawal symptoms, health complications (e.g., liver disease, cardiovascular issues); Behavioral signs: Loss of control, neglect of responsibilities, risky behaviors; Psychological signs: Cravings, mood changes, preoccupation with alcohol."
+    },
+    {
+      "id": 93,
+      "question": "What are the nursing interventions for Alcohol Use Disorder (AUD)?",
+      "answer": "Assessment and monitoring (e.g., CIWA for withdrawal severity), acute care during withdrawal (e.g., benzodiazepines for seizures), supportive care and education, and relapse prevention strategies."
+    },
+    {
+      "id": 94,
+      "question": "What are the treatment approaches for Alcohol Use Disorder (AUD)?",
+      "answer": "Medications: Disulfiram, Naltrexone, Acamprosate; Psychotherapy: CBT, motivational interviewing, contingency management; Support programs: Alcoholics Anonymous (AA), intensive outpatient programs, residential treatment for severe dependence."
+    }
+  ]
+}

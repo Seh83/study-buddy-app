@@ -1,0 +1,90 @@
+{
+  "title": "Dementias",
+  "cards": [
+    {
+      "id": 66,
+      "question": "What is Alzheimer’s Disease (AD)?",
+      "answer": "Alzheimer’s disease is the most common dementia, characterized by progressive cognitive decline affecting memory, language, and reasoning."
+    },
+    {
+      "id": 67,
+      "question": "What is the pathophysiology of Alzheimer's Disease?",
+      "answer": "Amyloid plaques disrupt neuron function, neurofibrillary tangles lead to cell death, and widespread brain atrophy occurs, particularly in the hippocampus and cortex."
+    },
+    {
+      "id": 68,
+      "question": "What are the symptoms of Alzheimer’s Disease?",
+      "answer": "Early stages: Short-term memory loss, difficulty finding words; Moderate stages: Confusion, personality changes, difficulty with daily tasks; Late stages: Severe memory loss, inability to communicate, loss of motor function."
+    },
+    {
+      "id": 69,
+      "question": "What are the treatments for Alzheimer’s Disease?",
+      "answer": "Cholinesterase inhibitors (e.g., donepezil, rivastigmine) and memantine help slow symptom progression. Behavioral interventions and supportive care can maintain quality of life."
+    },
+    {
+      "id": 70,
+      "question": "What is Frontotemporal Dementia (FTD)?",
+      "answer": "FTD affects the frontal and temporal lobes, causing personality, behavior, and language changes. It typically has an earlier onset (ages 45-65) than other dementias."
+    },
+    {
+      "id": 71,
+      "question": "What is the pathophysiology of Frontotemporal Dementia?",
+      "answer": "Abnormal accumulations of tau or TDP-43 proteins lead to neuron damage in the frontal and temporal lobes, causing progressive brain atrophy."
+    },
+    {
+      "id": 72,
+      "question": "What are the symptoms of Frontotemporal Dementia?",
+      "answer": "Behavioral variant: Personality and social behavior changes, impulsivity, apathy; Language variant: Difficulty with speech production or understanding words; Rarely, movement symptoms similar to Parkinson’s disease."
+    },
+    {
+      "id": 73,
+      "question": "What are the treatments for Frontotemporal Dementia?",
+      "answer": "There are no FDA-approved drugs; SSRIs or antipsychotics may be used to manage symptoms. Structured routines, speech therapy, and social support are beneficial."
+    },
+    {
+      "id": 74,
+      "question": "What is Lewy Body Dementia (LBD)?",
+      "answer": "LBD includes dementia with Lewy bodies (DLB) and Parkinson’s disease dementia (PDD). It is characterized by cognitive decline, visual hallucinations, and Parkinsonian symptoms."
+    },
+    {
+      "id": 75,
+      "question": "What is the pathophysiology of Lewy Body Dementia?",
+      "answer": "Abnormal deposits of alpha-synuclein protein (Lewy bodies) disrupt neural function. Neurotransmitter imbalances (acetylcholine and dopamine) contribute to symptoms."
+    },
+    {
+      "id": 76,
+      "question": "What are the symptoms of Lewy Body Dementia?",
+      "answer": "Cognitive fluctuations, visual hallucinations, movement symptoms (e.g., tremors, rigidity), REM sleep behavior disorder, and sensitivity to antipsychotics."
+    },
+    {
+      "id": 77,
+      "question": "What are the treatments for Lewy Body Dementia?",
+      "answer": "Cholinesterase inhibitors (e.g., rivastigmine) for cognitive symptoms, cautious use of levodopa for motor symptoms, and therapies such as physical, occupational, and sleep hygiene."
+    },
+    {
+      "id": 78,
+      "question": "What is Vascular Dementia (VaD)?",
+      "answer": "Vascular dementia is caused by reduced blood flow to the brain, often due to strokes or chronic blood vessel damage. It commonly coexists with Alzheimer’s disease (mixed dementia)."
+    },
+    {
+      "id": 79,
+      "question": "What is the pathophysiology of Vascular Dementia?",
+      "answer": "Ischemic injury (blockages or bleeding) and chronic small vessel disease cause localized brain damage and widespread cell death, impairing cognition."
+    },
+    {
+      "id": 80,
+      "question": "What are the symptoms of Vascular Dementia?",
+      "answer": "Cognitive changes: Impaired problem-solving, processing speed, and memory; Mood and behavior: Depression, apathy, emotional lability; Physical symptoms: Motor difficulties or speech issues depending on the affected brain area."
+    },
+    {
+      "id": 81,
+      "question": "What are the treatments for Vascular Dementia?",
+      "answer": "Medications: Antihypertensives, anticoagulants, and cholesterol-lowering drugs to prevent further vascular damage; Lifestyle changes: Healthy diet, exercise, smoking cessation; Cognitive therapy to enhance functioning."
+    },
+    {
+      "id": 82,
+      "question": "What are the Seven A's of Dementia?",
+      "answer": "Amnesia: Memory loss; Aphasia: Language impairment; Agnosia: Difficulty recognizing objects or people; Apraxia: Impaired motor planning; Altered perception: Sensory distortions; Apathy: Lack of motivation; Anosognosia: Lack of awareness of one’s condition."
+    }
+  ]
+}

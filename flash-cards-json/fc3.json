@@ -1,0 +1,105 @@
+{
+  "title": "Somatic Symptom Disorders",
+  "cards": [
+    {
+      "id": 46,
+      "question": "What is Somatization Disorder?",
+      "answer": "Somatization disorder is characterized by multiple, recurring physical symptoms that cannot be fully explained by medical conditions. Individuals with this disorder typically have significant anxiety and preoccupation with physical symptoms."
+    },
+    {
+      "id": 47,
+      "question": "What are the common symptoms of Somatization Disorder?",
+      "answer": "Symptoms vary but can include pain, gastrointestinal distress, fatigue, and neurological complaints. Symptoms may shift over time without a clear medical cause."
+    },
+    {
+      "id": 48,
+      "question": "What is the pathophysiology of Somatization Disorder?",
+      "answer": "The exact cause is unknown but may involve genetic, environmental, and psychological factors. Some studies suggest altered processing in brain areas related to pain and emotion."
+    },
+    {
+      "id": 49,
+      "question": "What are the treatments for Somatization Disorder?",
+      "answer": "Psychotherapy (e.g., cognitive-behavioral therapy), medications like antidepressants for accompanying anxiety or depression, and education to reduce symptom preoccupation and teach healthier coping mechanisms."
+    },
+    {
+      "id": 50,
+      "question": "What is Body Dysmorphic Disorder (BDD)?",
+      "answer": "BDD involves an obsessive focus on perceived physical flaws, which are often minor or imagined. The preoccupation with appearance causes significant distress and impairs social and occupational functioning."
+    },
+    {
+      "id": 51,
+      "question": "What are the common symptoms of Body Dysmorphic Disorder?",
+      "answer": "Intense preoccupation with a perceived defect in appearance; Frequent mirror-checking, excessive grooming, or seeking cosmetic procedures; Avoidance of social situations to hide the perceived flaw."
+    },
+    {
+      "id": 52,
+      "question": "What is the pathophysiology of Body Dysmorphic Disorder?",
+      "answer": "May involve dysfunction in brain areas related to visual processing and self-image. BDD is often linked to low self-esteem, trauma, or cultural pressures."
+    },
+    {
+      "id": 53,
+      "question": "What are the treatments for Body Dysmorphic Disorder?",
+      "answer": "Cognitive-behavioral therapy (CBT), selective serotonin reuptake inhibitors (SSRIs), and exposure therapy to reduce avoidance behaviors and improve social engagement."
+    },
+    {
+      "id": 54,
+      "question": "What is Pain Disorder?",
+      "answer": "Pain disorder, now categorized under somatic symptom disorder, is characterized by chronic pain that causes significant distress or impairment but lacks an identifiable physical cause or exceeds what would be expected from a medical condition."
+    },
+    {
+      "id": 55,
+      "question": "What are the common symptoms of Pain Disorder?",
+      "answer": "Persistent pain may affect multiple body parts (e.g., back, head, abdomen). Pain often worsens with stress and can lead to avoidance of daily activities."
+    },
+    {
+      "id": 56,
+      "question": "What is the pathophysiology of Pain Disorder?",
+      "answer": "Likely involves a complex interaction between psychological factors (e.g., stress) and central nervous system processes that influence pain perception."
+    },
+    {
+      "id": 57,
+      "question": "What are the treatments for Pain Disorder?",
+      "answer": "Psychotherapy (e.g., CBT), physical therapy to maintain mobility, and medications like NSAIDs or antidepressants to address pain or accompanying mood disorders."
+    },
+    {
+      "id": 58,
+      "question": "What is Conversion Disorder (Functional Neurological Symptom Disorder)?",
+      "answer": "Conversion disorder is characterized by neurological symptoms (e.g., paralysis, blindness) that cannot be fully explained by medical conditions and often arise in response to psychological stress."
+    },
+    {
+      "id": 59,
+      "question": "What are the common symptoms of Conversion Disorder?",
+      "answer": "Neurological symptoms such as weakness, paralysis, sensory loss, seizures, or gait disturbances without an identifiable medical cause."
+    },
+    {
+      "id": 60,
+      "question": "What is the pathophysiology of Conversion Disorder?",
+      "answer": "The exact mechanism is unclear but may involve altered functioning in brain regions responsible for emotion regulation and sensory-motor integration, often linked to psychological stress or trauma."
+    },
+    {
+      "id": 61,
+      "question": "What are the treatments for Conversion Disorder?",
+      "answer": "Psychotherapy, physical therapy to address functional impairments, and treatment of any underlying psychological stressors."
+    },
+    {
+      "id": 62,
+      "question": "What is Illness Anxiety Disorder (formerly Hypochondriasis)?",
+      "answer": "Illness anxiety disorder involves excessive worry about having or developing a serious illness despite minimal or no physical symptoms and reassurance from healthcare providers."
+    },
+    {
+      "id": 63,
+      "question": "What are the common symptoms of Illness Anxiety Disorder?",
+      "answer": "Frequent doctor visits or excessive health research, avoidance of medical care out of fear of illness, and persistent anxiety despite negative medical evaluations."
+    },
+    {
+      "id": 64,
+      "question": "What is the pathophysiology of Illness Anxiety Disorder?",
+      "answer": "May involve heightened sensitivity to bodily sensations and a tendency to misinterpret normal physical sensations as signs of serious illness, often linked to underlying anxiety disorders."
+    },
+    {
+      "id": 65,
+      "question": "What are the treatments for Illness Anxiety Disorder?",
+      "answer": "Cognitive-behavioral therapy (CBT), SSRIs for anxiety, and reassurance strategies to help patients manage health-related fears."
+    }
+  ]
+}
