@@ -1,0 +1,946 @@
+[
+  {
+    "Topic": "Musculoskeletal Disorders",
+    "Cards": [
+      {
+        "Title": "DDH (Developmental Dysplasia of the Hip)",
+        "Pathophysiology": "Abnormal development of the hip joint, where the femoral head fails to align properly with the acetabulum.",
+        "Signs/Symptoms": "Asymmetry of thigh/gluteal folds, limited abduction, positive Ortolani/Barlow tests, leg length discrepancy.",
+        "Diagnostics": "Physical exam, ultrasonography in infants under 6 months, X-rays in older children.",
+        "Treatment": "Pavlik harness for infants; closed reduction and spica casting for older infants/children.",
+        "Nursing Care": "Educate parents on harness care, monitor skin integrity, ensure proper hip positioning.",
+        "Hint": [
+          "Focus on understanding the pathophysiology: Abnormal development of the hip joint, where the femoral head fails to align properly with the acetabulum.",
+          "Key symptoms include: Asymmetry of thigh/gluteal folds, limited abduction.",
+          "Remember treatments like: Pavlik harness for infants; closed reduction and spica casting for older infants/children.."
+        ]
+      },
+      {
+        "Title": "DMD (Duchenne Muscular Dystrophy)",
+        "Pathophysiology": "X-linked recessive disorder causing absence of dystrophin protein, leading to progressive muscle degeneration.",
+        "Signs/Symptoms": "Delayed motor milestones, Gower's sign, calf pseudohypertrophy, progressive weakness.",
+        "Diagnostics": "Elevated creatine kinase (CK) levels, genetic testing, muscle biopsy.",
+        "Treatment": "Corticosteroids to slow progression, physical therapy, assistive devices.",
+        "Nursing Care": "Support respiratory function, monitor for cardiac complications, assist with mobility aids.",
+        "Hint": [
+          "Focus on understanding the pathophysiology: X-linked recessive disorder causing absence of dystrophin protein, leading to progressive muscle degeneration.",
+          "Key symptoms include: Delayed motor milestones, Gower's sign.",
+          "Remember treatments like: Corticosteroids to slow progression, physical therapy."
+        ]
+      },
+      {
+        "Title": "CP (Cerebral Palsy)",
+        "Pathophysiology": "Non-progressive motor dysfunction due to brain injury or malformation during development.",
+        "Signs/Symptoms": "Spasticity, delayed motor milestones, poor coordination, abnormal muscle tone.",
+        "Diagnostics": "Developmental screening, neuroimaging (MRI or CT), and neurological exam.",
+        "Treatment": "Physical and occupational therapy, antispasmodic medications (baclofen), orthopedic surgeries.",
+        "Nursing Care": "Encourage mobility, prevent contractures, support family with resources and adaptive strategies.",
+        "Hint": [
+          "Focus on understanding the pathophysiology: Non-progressive motor dysfunction due to brain injury or malformation during development.",
+          "Key symptoms include: Spasticity, delayed motor milestones.",
+          "Remember treatments like: Physical and occupational therapy, antispasmodic medications (baclofen)."
+        ]
+      },
+      {
+        "Title": "JIA (Juvenile Idiopathic Arthritis)",
+        "Pathophysiology": "Autoimmune inflammation of joints, leading to swelling, pain, and potential joint damage.",
+        "Signs/Symptoms": "Joint stiffness (worse in the morning), swelling, pain, fever, rash.",
+        "Diagnostics": "Elevated ESR, CRP, and ANA; imaging for joint damage.",
+        "Treatment": "NSAIDs, DMARDs (methotrexate), biologics (etanercept), physical therapy.",
+        "Nursing Care": "Promote joint mobility, pain management, educate families about medication side effects.",
+        "Hint": [
+          "Focus on understanding the pathophysiology: Autoimmune inflammation of joints, leading to swelling, pain, and potential joint damage.",
+          "Key symptoms include: Joint stiffness (worse in the morning), swelling.",
+          "Remember treatments like: NSAIDs, DMARDs (methotrexate)."
+        ]
+      },
+      {
+        "Title": "Scoliosis",
+        "Pathophysiology": "Lateral curvature of the spine >10 degrees, potentially idiopathic or secondary to neuromuscular conditions.",
+        "Signs/Symptoms": "Uneven shoulders/hips, rib hump, back pain.",
+        "Diagnostics": "Adam\u2019s forward bend test, X-rays for Cobb angle measurement.",
+        "Treatment": "Bracing for moderate curves, surgical correction for severe cases (>40 degrees).",
+        "Nursing Care": "Postoperative care includes pain management, promoting mobility, monitoring for complications (e.g., infection).",
+        "Hint": [
+          "Focus on understanding the pathophysiology: Lateral curvature of the spine >10 degrees, potentially idiopathic or secondary to neuromuscular conditions.",
+          "Key symptoms include: Uneven shoulders/hips, rib hump.",
+          "Remember treatments like: Bracing for moderate curves, surgical correction for severe cases (>40 degrees).."
+        ]
+      }
+    ]
+  },
+  {
+    "Topic": "Neurological/Neuromuscular Disorders",
+    "Cards": [
+      {
+        "Title": "IICP (Increased Intracranial Pressure)",
+        "Pathophysiology": "Elevated pressure within the skull, often due to trauma, infection, tumor, or hydrocephalus, leading to decreased cerebral perfusion.",
+        "Signs/Symptoms": "Bulging fontanel in infants, headache, vomiting, altered LOC, bradycardia, hypertension, irregular respirations (Cushing\u2019s triad).",
+        "Diagnostics": "CT/MRI to identify cause, lumbar puncture contraindicated if suspected herniation.",
+        "Treatment": "Address underlying cause (e.g., shunt for hydrocephalus, surgery for tumor), medications (mannitol, corticosteroids).",
+        "Nursing Care": "Maintain head-of-bed at 30 degrees, monitor neurologic status, avoid activities that increase ICP (e.g., coughing).",
+        "Hint": [
+          "Focus on understanding the pathophysiology: Elevated pressure within the skull, often due to trauma, infection, tumor, or hydrocephalus, leading to decreased cerebral perfusion.",
+          "Key symptoms include: Bulging fontanel in infants, headache.",
+          "Remember treatments like: Address underlying cause (e.g., shunt for hydrocephalus."
+        ]
+      },
+      {
+        "Title": "Meningitis",
+        "Pathophysiology": "Inflammation of the meninges caused by bacterial or viral infection, leading to potential neurological damage.",
+        "Signs/Symptoms": "Fever, nuchal rigidity, photophobia, altered LOC, seizures, positive Kernig and Brudzinski signs.",
+        "Diagnostics": "Lumbar puncture (increased WBCs, decreased glucose in bacterial meningitis), blood cultures.",
+        "Treatment": "Antibiotics for bacterial meningitis, supportive care for viral meningitis, corticosteroids to reduce inflammation.",
+        "Nursing Care": "Initiate droplet precautions, monitor for signs of IICP, administer medications promptly.",
+        "Hint": [
+          "Focus on understanding the pathophysiology: Inflammation of the meninges caused by bacterial or viral infection, leading to potential neurological damage.",
+          "Key symptoms include: Fever, nuchal rigidity.",
+          "Remember treatments like: Antibiotics for bacterial meningitis, supportive care for viral meningitis."
+        ]
+      },
+      {
+        "Title": "Spina Bifida",
+        "Pathophysiology": "Neural tube defect resulting in incomplete closure of the vertebral column, with varying severity (occulta, meningocele, myelomeningocele).",
+        "Signs/Symptoms": "Sac-like protrusion on the back, weakness/paralysis below the defect, hydrocephalus in severe cases.",
+        "Diagnostics": "Prenatal ultrasound, elevated alpha-fetoprotein in maternal blood, postnatal imaging.",
+        "Treatment": "Surgical repair, management of complications (e.g., shunt for hydrocephalus, bladder/bowel training).",
+        "Nursing Care": "Protect sac preoperatively, monitor for infection, teach families about long-term care and assistive devices.",
+        "Hint": [
+          "Focus on understanding the pathophysiology: Neural tube defect resulting in incomplete closure of the vertebral column, with varying severity (occulta, meningocele, myelomeningocele).",
+          "Key symptoms include: Sac-like protrusion on the back, weakness/paralysis below the defect.",
+          "Remember treatments like: Surgical repair, management of complications (e.g.."
+        ]
+      },
+      {
+        "Title": "Seizures",
+        "Pathophysiology": "Abnormal electrical activity in the brain, leading to motor, sensory, or behavioral manifestations.",
+        "Signs/Symptoms": "Vary by type (tonic-clonic, absence, focal); aura may precede some seizures.",
+        "Diagnostics": "EEG, MRI, blood tests to identify underlying causes (e.g., infection, metabolic disorder).",
+        "Treatment": "Antiepileptic drugs (e.g., phenytoin, levetiracetam), ketogenic diet, surgery for refractory cases.",
+        "Nursing Care": "Ensure seizure precautions, monitor during and after seizures (time and type), educate about medication adherence.",
+        "Hint": [
+          "Focus on understanding the pathophysiology: Abnormal electrical activity in the brain, leading to motor, sensory, or behavioral manifestations.",
+          "Key symptoms include: Vary by type (tonic-clonic, absence.",
+          "Remember treatments like: Antiepileptic drugs (e.g., phenytoin."
+        ]
+      },
+      {
+        "Title": "SIADH (Syndrome of Inappropriate Antidiuretic Hormone)",
+        "Pathophysiology": "Excess ADH secretion leads to water retention, dilutional hyponatremia, and potential cerebral edema.",
+        "Signs/Symptoms": "Low urine output, hyponatremia (confusion, headache, seizures), weight gain, edema.",
+        "Diagnostics": "Low serum sodium/osmolality, high urine osmolality, elevated ADH levels.",
+        "Treatment": "Fluid restriction, hypertonic saline for severe hyponatremia, medications (demeclocycline to inhibit ADH).",
+        "Nursing Care": "Monitor I&O, restrict fluids, monitor neurologic status, educate families about managing fluid intake.",
+        "Hint": [
+          "Focus on understanding the pathophysiology: Excess ADH secretion leads to water retention, dilutional hyponatremia, and potential cerebral edema.",
+          "Key symptoms include: Low urine output, hyponatremia (confusion.",
+          "Remember treatments like: Fluid restriction, hypertonic saline for severe hyponatremia."
+        ]
+      }
+    ]
+  },
+  {
+    "Topic": "Oncology/End-of-Life (EOL) Care",
+    "Cards": [
+      {
+        "Title": "EOL Care",
+        "Pathophysiology": "Focuses on symptom management and quality of life for terminal illnesses, addressing physical, emotional, and spiritual needs.",
+        "Signs/Symptoms": "Pain, dyspnea, fatigue, emotional distress, and other terminal phase symptoms.",
+        "Diagnostics": "Symptom assessments; no specific diagnostics as the focus is palliative.",
+        "Treatment": "Pain management (opioids), oxygen therapy, psychosocial support, hospice care.",
+        "Nursing Care": "Provide comfort measures, involve family in care, address psychosocial needs, and support bereavement.",
+        "Hint": [
+          "Focus on understanding the pathophysiology: Focuses on symptom management and quality of life for terminal illnesses, addressing physical, emotional, and spiritual needs.",
+          "Key symptoms include: Pain, dyspnea.",
+          "Remember treatments like: Pain management (opioids), oxygen therapy."
+        ]
+      },
+      {
+        "Title": "Wilms Tumor",
+        "Pathophysiology": "Malignant renal tumor in children, often unilateral and associated with genetic syndromes.",
+        "Signs/Symptoms": "Abdominal mass, hematuria, hypertension, fever.",
+        "Diagnostics": "Abdominal ultrasound, CT/MRI, biopsy.",
+        "Treatment": "Surgical nephrectomy, chemotherapy, sometimes radiation therapy.",
+        "Nursing Care": "Avoid palpating the abdomen (to prevent tumor rupture), postoperative care, monitor for infection.",
+        "Hint": [
+          "Focus on understanding the pathophysiology: Malignant renal tumor in children, often unilateral and associated with genetic syndromes.",
+          "Key symptoms include: Abdominal mass, hematuria.",
+          "Remember treatments like: Surgical nephrectomy, chemotherapy."
+        ]
+      },
+      {
+        "Title": "Leukemia",
+        "Pathophysiology": "Cancer of blood-forming tissues, leading to excessive production of immature white blood cells, crowding out normal cells.",
+        "Signs/Symptoms": "Fatigue, fever, pallor, bruising, bleeding, bone/joint pain, recurrent infections.",
+        "Diagnostics": "CBC with differential (anemia, thrombocytopenia, leukocytosis), bone marrow biopsy.",
+        "Treatment": "Chemotherapy, stem cell transplant, supportive therapies (e.g., transfusions).",
+        "Nursing Care": "Monitor for infection, manage side effects of chemotherapy, provide emotional support to family.",
+        "Hint": [
+          "Focus on understanding the pathophysiology: Cancer of blood-forming tissues, leading to excessive production of immature white blood cells, crowding out normal cells.",
+          "Key symptoms include: Fatigue, fever.",
+          "Remember treatments like: Chemotherapy, stem cell transplant."
+        ]
+      },
+      {
+        "Title": "Tumor Lysis Syndrome",
+        "Pathophysiology": "Rapid breakdown of tumor cells after chemotherapy, leading to electrolyte imbalances (hyperkalemia, hyperphosphatemia, hypocalcemia) and kidney damage.",
+        "Signs/Symptoms": "Nausea, vomiting, muscle cramps, arrhythmias, renal failure.",
+        "Diagnostics": "Blood tests (electrolytes, BUN/creatinine), ECG for cardiac changes.",
+        "Treatment": "Aggressive hydration, allopurinol or rasburicase to manage uric acid, electrolyte correction.",
+        "Nursing Care": "Monitor electrolyte levels, ensure adequate hydration, assess for signs of cardiac/renal complications.",
+        "Hint": [
+          "Focus on understanding the pathophysiology: Rapid breakdown of tumor cells after chemotherapy, leading to electrolyte imbalances (hyperkalemia, hyperphosphatemia, hypocalcemia) and kidney damage.",
+          "Key symptoms include: Nausea, vomiting.",
+          "Remember treatments like: Aggressive hydration, allopurinol or rasburicase to manage uric acid."
+        ]
+      }
+    ]
+  },
+  {
+    "Topic": "Gastrointestinal (GI) Disorders",
+    "Cards": [
+      {
+        "Title": "TEF (Tracheoesophageal Fistula)",
+        "Pathophysiology": "Congenital connection between the trachea and esophagus, often associated with esophageal atresia.",
+        "Signs/Symptoms": "Excessive salivation, choking, cyanosis during feeding, respiratory distress.",
+        "Diagnostics": "Inability to pass an NG tube into the stomach, contrast imaging.",
+        "Treatment": "Surgical correction (ligation of fistula and esophageal repair).",
+        "Nursing Care": "Maintain NPO status preoperatively, provide suctioning, monitor for aspiration and respiratory distress.",
+        "Hint": [
+          "Focus on understanding the pathophysiology: Congenital connection between the trachea and esophagus, often associated with esophageal atresia.",
+          "Key symptoms include: Excessive salivation, choking.",
+          "Remember treatments like: Surgical correction (ligation of fistula and esophageal repair).."
+        ]
+      },
+      {
+        "Title": "Hirschsprung Disease",
+        "Pathophysiology": "Congenital absence of ganglion cells in the colon, causing a lack of peristalsis and intestinal obstruction.",
+        "Signs/Symptoms": "Failure to pass meconium within 48 hours, abdominal distension, bilious vomiting, constipation.",
+        "Diagnostics": "Rectal biopsy (absence of ganglion cells), contrast enema.",
+        "Treatment": "Surgical resection of the aganglionic segment (pull-through procedure).",
+        "Nursing Care": "Monitor for signs of enterocolitis, manage ostomy care if applicable, provide dietary guidance post-surgery.",
+        "Hint": [
+          "Focus on understanding the pathophysiology: Congenital absence of ganglion cells in the colon, causing a lack of peristalsis and intestinal obstruction.",
+          "Key symptoms include: Failure to pass meconium within 48 hours, abdominal distension.",
+          "Remember treatments like: Surgical resection of the aganglionic segment (pull-through procedure).."
+        ]
+      },
+      {
+        "Title": "GER (Gastroesophageal Reflux)",
+        "Pathophysiology": "Incompetence of the lower esophageal sphincter, leading to retrograde flow of stomach contents into the esophagus.",
+        "Signs/Symptoms": "Spitting up, irritability, poor feeding, failure to thrive, respiratory symptoms (e.g., wheezing).",
+        "Diagnostics": "pH probe, esophageal manometry, upper GI series.",
+        "Treatment": "Small frequent feedings, thickened formula, medications (H2 blockers, PPIs), surgical intervention (Nissen fundoplication) in severe cases.",
+        "Nursing Care": "Educate parents about positioning after feeding, monitor for aspiration.",
+        "Hint": [
+          "Focus on understanding the pathophysiology: Incompetence of the lower esophageal sphincter, leading to retrograde flow of stomach contents into the esophagus.",
+          "Key symptoms include: Spitting up, irritability.",
+          "Remember treatments like: Small frequent feedings, thickened formula."
+        ]
+      },
+      {
+        "Title": "Colic",
+        "Pathophysiology": "Likely multifactorial; thought to involve gastrointestinal discomfort and hypersensitivity to stimuli.",
+        "Signs/Symptoms": "Excessive, inconsolable crying for more than 3 hours/day, more than 3 days/week.",
+        "Diagnostics": "Clinical diagnosis based on history and exclusion of other causes.",
+        "Treatment": "Parental reassurance, dietary changes (if breastfeeding), anti-gas drops (simethicone).",
+        "Nursing Care": "Teach soothing techniques, provide emotional support to parents.",
+        "Hint": [
+          "Focus on understanding the pathophysiology: Likely multifactorial; thought to involve gastrointestinal discomfort and hypersensitivity to stimuli.",
+          "Key symptoms include: Excessive, inconsolable crying for more than 3 hours/day.",
+          "Remember treatments like: Parental reassurance, dietary changes (if breastfeeding)."
+        ]
+      },
+      {
+        "Title": "Intussusception",
+        "Pathophysiology": "Telescoping of one part of the intestine into another, causing obstruction and ischemia.",
+        "Signs/Symptoms": "Sudden abdominal pain, 'currant jelly' stools, sausage-shaped abdominal mass, vomiting.",
+        "Diagnostics": "Abdominal ultrasound, air or contrast enema (both diagnostic and therapeutic).",
+        "Treatment": "Non-surgical reduction via enema, surgical intervention if unsuccessful.",
+        "Nursing Care": "Monitor for recurrence, assess stool patterns, educate parents about post-procedure care.",
+        "Hint": [
+          "Focus on understanding the pathophysiology: Telescoping of one part of the intestine into another, causing obstruction and ischemia.",
+          "Key symptoms include: Sudden abdominal pain, 'currant jelly' stools.",
+          "Remember treatments like: Non-surgical reduction via enema, surgical intervention if unsuccessful.."
+        ]
+      },
+      {
+        "Title": "Biliary Atresia",
+        "Pathophysiology": "Congenital obstruction or absence of bile ducts, leading to cholestasis and liver damage.",
+        "Signs/Symptoms": "Jaundice persisting beyond 2 weeks of life, pale stools, dark urine, hepatomegaly.",
+        "Diagnostics": "Liver biopsy, cholangiogram, elevated bilirubin levels.",
+        "Treatment": "Kasai procedure (hepatoportoenterostomy) to restore bile flow; liver transplant if unsuccessful.",
+        "Nursing Care": "Monitor liver function, provide nutritional support (fat-soluble vitamins), educate parents on postoperative care.",
+        "Hint": [
+          "Focus on understanding the pathophysiology: Congenital obstruction or absence of bile ducts, leading to cholestasis and liver damage.",
+          "Key symptoms include: Jaundice persisting beyond 2 weeks of life, pale stools.",
+          "Remember treatments like: Kasai procedure (hepatoportoenterostomy) to restore bile flow; liver transplant if unsuccessful.."
+        ]
+      }
+    ]
+  },
+  {
+    "Topic": "Endocrine/Renal and GU Disorders",
+    "Cards": [
+      {
+        "Title": "Dehydration",
+        "Pathophysiology": "Fluid loss exceeds intake, leading to electrolyte imbalances and hypovolemia.",
+        "Signs/Symptoms": "Dry mucous membranes, decreased urine output, sunken fontanels (infants), tachycardia, poor skin turgor.",
+        "Diagnostics": "Serum electrolyte levels, urinalysis (specific gravity), clinical signs.",
+        "Treatment": "Oral rehydration solution (mild to moderate), IV fluids (severe dehydration).",
+        "Nursing Care": "Monitor fluid status (I&O, weight), educate caregivers about hydration, assess for signs of shock.",
+        "Hint": [
+          "Focus on understanding the pathophysiology: Fluid loss exceeds intake, leading to electrolyte imbalances and hypovolemia.",
+          "Key symptoms include: Dry mucous membranes, decreased urine output.",
+          "Remember treatments like: Oral rehydration solution (mild to moderate), IV fluids (severe dehydration).."
+        ]
+      },
+      {
+        "Title": "Burns",
+        "Pathophysiology": "Tissue damage due to thermal, chemical, electrical, or radiation exposure, resulting in fluid loss, infection risk, and metabolic demands.",
+        "Signs/Symptoms": "Redness, blistering, pain (superficial burns); charred skin, numbness (deep burns).",
+        "Diagnostics": "Assessment of burn depth and total body surface area (TBSA).",
+        "Treatment": "Fluid resuscitation (Parkland formula), wound care, pain management, infection prevention.",
+        "Nursing Care": "Monitor for signs of infection, manage pain, ensure proper nutrition for wound healing.",
+        "Hint": [
+          "Focus on understanding the pathophysiology: Tissue damage due to thermal, chemical, electrical, or radiation exposure, resulting in fluid loss, infection risk, and metabolic demands.",
+          "Key symptoms include: Redness, blistering.",
+          "Remember treatments like: Fluid resuscitation (Parkland formula), wound care."
+        ]
+      },
+      {
+        "Title": "UTI (Urinary Tract Infection)",
+        "Pathophysiology": "Infection of the urinary tract, commonly caused by E. coli, leading to inflammation and irritation.",
+        "Signs/Symptoms": "Dysuria, fever, abdominal pain, hematuria, enuresis in children.",
+        "Diagnostics": "Urinalysis (WBCs, nitrites), urine culture.",
+        "Treatment": "Antibiotics (e.g., amoxicillin, cephalosporins).",
+        "Nursing Care": "Encourage fluid intake, teach proper perineal hygiene, educate on completing the antibiotic course.",
+        "Hint": [
+          "Focus on understanding the pathophysiology: Infection of the urinary tract, commonly caused by E.",
+          "Key symptoms include: Dysuria, fever.",
+          "Remember treatments like: Antibiotics (e.g., amoxicillin."
+        ]
+      },
+      {
+        "Title": "Nephrotic Syndrome",
+        "Pathophysiology": "Increased glomerular permeability leads to protein loss in urine, hypoalbuminemia, and edema.",
+        "Signs/Symptoms": "Periorbital edema, ascites, proteinuria, frothy urine.",
+        "Diagnostics": "Urinalysis (proteinuria), serum albumin levels, renal biopsy if needed.",
+        "Treatment": "Corticosteroids, diuretics, albumin infusions, sodium restriction.",
+        "Nursing Care": "Monitor fluid status, prevent infections, educate families on dietary restrictions and medication compliance.",
+        "Hint": [
+          "Focus on understanding the pathophysiology: Increased glomerular permeability leads to protein loss in urine, hypoalbuminemia, and edema.",
+          "Key symptoms include: Periorbital edema, ascites.",
+          "Remember treatments like: Corticosteroids, diuretics."
+        ]
+      },
+      {
+        "Title": "AGN (Acute Glomerulonephritis)",
+        "Pathophysiology": "Inflammation of glomeruli, often post-streptococcal, causing impaired kidney filtration.",
+        "Signs/Symptoms": "Hematuria (tea-colored urine), hypertension, edema, oliguria.",
+        "Diagnostics": "Elevated ASO titer, urinalysis (hematuria, proteinuria), serum creatinine/BUN.",
+        "Treatment": "Supportive care (antihypertensives, diuretics), fluid and sodium restriction.",
+        "Nursing Care": "Monitor BP and urine output, educate on dietary restrictions, assess for complications (e.g., encephalopathy).",
+        "Hint": [
+          "Focus on understanding the pathophysiology: Inflammation of glomeruli, often post-streptococcal, causing impaired kidney filtration.",
+          "Key symptoms include: Hematuria (tea-colored urine), hypertension.",
+          "Remember treatments like: Supportive care (antihypertensives, diuretics)."
+        ]
+      },
+      {
+        "Title": "Diabetes",
+        "Pathophysiology": "Impaired insulin production (Type 1) or insulin resistance (Type 2), leading to hyperglycemia.",
+        "Signs/Symptoms": "Polyuria, polydipsia, polyphagia, weight loss (Type 1), acanthosis nigricans (Type 2).",
+        "Diagnostics": "Blood glucose levels, HbA1c, fasting glucose, oral glucose tolerance test.",
+        "Treatment": "Insulin therapy (Type 1), oral hypoglycemics (Type 2), dietary changes, exercise.",
+        "Nursing Care": "Educate families on blood glucose monitoring, insulin administration, and hypoglycemia prevention.",
+        "Hint": [
+          "Focus on understanding the pathophysiology: Impaired insulin production (Type 1) or insulin resistance (Type 2), leading to hyperglycemia.",
+          "Key symptoms include: Polyuria, polydipsia.",
+          "Remember treatments like: Insulin therapy (Type 1), oral hypoglycemics (Type 2)."
+        ]
+      },
+      {
+        "Title": "Hypospadias",
+        "Pathophysiology": "Congenital condition where the urethral opening is on the underside of the penis rather than the tip.",
+        "Signs/Symptoms": "Abnormal urethral placement, downward curvature (chordee), difficulty with urination.",
+        "Diagnostics": "Physical examination at birth.",
+        "Treatment": "Surgical correction, typically performed before 18 months of age.",
+        "Nursing Care": "Educate parents about avoiding circumcision before surgery, monitor post-surgical site for infection, and ensure urinary drainage.",
+        "Hint": [
+          "Focus on understanding the pathophysiology: Congenital condition where the urethral opening is on the underside of the penis rather than the tip.",
+          "Key symptoms include: Abnormal urethral placement, downward curvature (chordee).",
+          "Remember treatments like: Surgical correction, typically performed before 18 months of age.."
+        ]
+      },
+      {
+        "Title": "Testicular Torsion",
+        "Pathophysiology": "Twisting of the spermatic cord, cutting off blood supply to the testicle, causing ischemia.",
+        "Signs/Symptoms": "Sudden severe scrotal pain, swelling, nausea, vomiting, and absence of cremasteric reflex.",
+        "Diagnostics": "Doppler ultrasound, physical exam.",
+        "Treatment": "Surgical detorsion and fixation (orchiopexy); testicle removal if necrotic.",
+        "Nursing Care": "Provide pre- and post-op care, educate parents and adolescents on the importance of prompt treatment.",
+        "Hint": [
+          "Focus on understanding the pathophysiology: Twisting of the spermatic cord, cutting off blood supply to the testicle, causing ischemia.",
+          "Key symptoms include: Sudden severe scrotal pain, swelling.",
+          "Remember treatments like: Surgical detorsion and fixation (orchiopexy); testicle removal if necrotic.."
+        ]
+      },
+      {
+        "Title": "Enuresis",
+        "Pathophysiology": "Repeated involuntary urination, often nocturnal, beyond the age of bladder control development.",
+        "Signs/Symptoms": "Bedwetting in children over 5 years old, often without underlying pathology.",
+        "Diagnostics": "History and physical exam, urinalysis to rule out infection or diabetes.",
+        "Treatment": "Behavioral strategies, enuresis alarms, medications (desmopressin, imipramine).",
+        "Nursing Care": "Educate families on behavior modification techniques, encourage limiting fluids before bedtime, provide emotional support to reduce stigma.",
+        "Hint": [
+          "Focus on understanding the pathophysiology: Repeated involuntary urination, often nocturnal, beyond the age of bladder control development.",
+          "Key symptoms include: Bedwetting in children over 5 years old, often without underlying pathology..",
+          "Remember treatments like: Behavioral strategies, enuresis alarms."
+        ]
+      }
+    ]
+  },
+  {
+    "Topic": "Cardiovascular and Hematologic Disorders",
+    "Cards": [
+      {
+        "Title": "TOF (Tetralogy of Fallot)",
+        "Pathophysiology": "Congenital heart defect consisting of four anomalies: pulmonary stenosis, right ventricular hypertrophy, overriding aorta, and ventricular septal defect (VSD).",
+        "Signs/Symptoms": "Cyanosis (especially during crying or feeding), 'tet spells,' clubbing of fingers, poor growth.",
+        "Diagnostics": "Echocardiogram, chest X-ray ('boot-shaped heart'), cardiac catheterization.",
+        "Treatment": "Surgical repair (complete or staged), prostaglandin E1 infusion to maintain ductus arteriosus patency pre-surgery.",
+        "Nursing Care": "Monitor oxygen levels, teach parents to manage 'tet spells' (e.g., knee-chest position), provide postoperative care.",
+        "Hint": [
+          "Focus on understanding the pathophysiology: Congenital heart defect consisting of four anomalies: pulmonary stenosis, right ventricular hypertrophy, overriding aorta, and ventricular septal defect (VSD).",
+          "Key symptoms include: Cyanosis (especially during crying or feeding), 'tet spells,' clubbing of fingers.",
+          "Remember treatments like: Surgical repair (complete or staged), prostaglandin E1 infusion to maintain ductus arteriosus patency pre-surgery.."
+        ]
+      },
+      {
+        "Title": "PDA (Patent Ductus Arteriosus)",
+        "Pathophysiology": "Failure of the ductus arteriosus to close after birth, causing left-to-right shunting of blood.",
+        "Signs/Symptoms": "Machinery-like murmur, bounding pulses, tachypnea, poor feeding.",
+        "Diagnostics": "Echocardiogram, chest X-ray.",
+        "Treatment": "Indomethacin or ibuprofen to close PDA (if no CHF), surgical ligation or catheterization for closure.",
+        "Nursing Care": "Monitor respiratory status, provide feeding support, educate families on postoperative expectations.",
+        "Hint": [
+          "Focus on understanding the pathophysiology: Failure of the ductus arteriosus to close after birth, causing left-to-right shunting of blood.",
+          "Key symptoms include: Machinery-like murmur, bounding pulses.",
+          "Remember treatments like: Indomethacin or ibuprofen to close PDA (if no CHF), surgical ligation or catheterization for closure.."
+        ]
+      },
+      {
+        "Title": "Transposition of the Great Arteries (TGA)",
+        "Pathophysiology": "The aorta and pulmonary artery are switched, leading to oxygen-poor blood being circulated systemically.",
+        "Signs/Symptoms": "Cyanosis, tachypnea, poor feeding, heart failure signs.",
+        "Diagnostics": "Echocardiogram, chest X-ray ('egg-shaped heart').",
+        "Treatment": "Prostaglandin E1 to maintain ductus arteriosus, balloon atrial septostomy, corrective surgery (arterial switch).",
+        "Nursing Care": "Monitor oxygenation, manage prostaglandin infusion, provide postoperative care and support.",
+        "Hint": [
+          "Focus on understanding the pathophysiology: The aorta and pulmonary artery are switched, leading to oxygen-poor blood being circulated systemically.",
+          "Key symptoms include: Cyanosis, tachypnea.",
+          "Remember treatments like: Prostaglandin E1 to maintain ductus arteriosus, balloon atrial septostomy."
+        ]
+      },
+      {
+        "Title": "Coarctation of the Aorta",
+        "Pathophysiology": "Narrowing of the aorta, leading to increased pressure before the narrowing and decreased pressure after.",
+        "Signs/Symptoms": "Elevated blood pressure in arms, diminished pulses in legs, murmur, signs of heart failure in infants.",
+        "Diagnostics": "Blood pressure measurements in all extremities, echocardiogram, MRI.",
+        "Treatment": "Balloon angioplasty, surgical repair.",
+        "Nursing Care": "Monitor BP in upper and lower extremities, manage antihypertensive medications, provide post-op care.",
+        "Hint": [
+          "Focus on understanding the pathophysiology: Narrowing of the aorta, leading to increased pressure before the narrowing and decreased pressure after.",
+          "Key symptoms include: Elevated blood pressure in arms, diminished pulses in legs.",
+          "Remember treatments like: Balloon angioplasty, surgical repair.."
+        ]
+      },
+      {
+        "Title": "Post-Op Care for Cardiac Surgery",
+        "Pathophysiology": "Recovery involves managing hemodynamics, preventing complications, and supporting the child\u2019s growth and development.",
+        "Signs/Symptoms": "Monitor for arrhythmias, fluid imbalances, and signs of infection.",
+        "Diagnostics": "Frequent vital sign checks, chest X-ray, lab monitoring (electrolytes, CBC).",
+        "Treatment": "Pain management, fluid and nutritional support, respiratory care (e.g., chest physiotherapy).",
+        "Nursing Care": "Monitor for complications (e.g., tamponade, infections), educate families on activity restrictions and signs of complications.",
+        "Hint": [
+          "Focus on understanding the pathophysiology: Recovery involves managing hemodynamics, preventing complications, and supporting the child\u2019s growth and development.",
+          "Key symptoms include: Monitor for arrhythmias, fluid imbalances.",
+          "Remember treatments like: Pain management, fluid and nutritional support."
+        ]
+      },
+      {
+        "Title": "Hemophilia",
+        "Pathophysiology": "X-linked recessive disorder causing deficiency in clotting factors (Factor VIII in hemophilia A or Factor IX in hemophilia B), leading to impaired blood clotting.",
+        "Signs/Symptoms": "Prolonged bleeding, joint swelling (hemarthrosis), bruising, hematomas.",
+        "Diagnostics": "Prolonged activated partial thromboplastin time (aPTT), low clotting factor levels.",
+        "Treatment": "Factor replacement therapy, DDAVP (desmopressin) for mild cases of hemophilia A.",
+        "Nursing Care": "Avoid IM injections, provide safety education to prevent injury, administer clotting factors promptly during bleeding episodes.",
+        "Hint": [
+          "Focus on understanding the pathophysiology: X-linked recessive disorder causing deficiency in clotting factors (Factor VIII in hemophilia A or Factor IX in hemophilia B), leading to impaired blood clotting.",
+          "Key symptoms include: Prolonged bleeding, joint swelling (hemarthrosis).",
+          "Remember treatments like: Factor replacement therapy, DDAVP (desmopressin) for mild cases of hemophilia A.."
+        ]
+      },
+      {
+        "Title": "Sickle Cell Disease",
+        "Pathophysiology": "Autosomal recessive disorder causing abnormal hemoglobin (HbS), leading to sickling of red blood cells and vaso-occlusion.",
+        "Signs/Symptoms": "Pain crises, anemia, jaundice, swelling in hands/feet (dactylitis), infections.",
+        "Diagnostics": "Hemoglobin electrophoresis, CBC (low hemoglobin, elevated reticulocyte count).",
+        "Treatment": "Pain management, hydration, oxygen, blood transfusions, hydroxyurea to reduce sickling.",
+        "Nursing Care": "Monitor for complications (stroke, acute chest syndrome), educate on triggers of crises, ensure vaccinations.",
+        "Hint": [
+          "Focus on understanding the pathophysiology: Autosomal recessive disorder causing abnormal hemoglobin (HbS), leading to sickling of red blood cells and vaso-occlusion.",
+          "Key symptoms include: Pain crises, anemia.",
+          "Remember treatments like: Pain management, hydration."
+        ]
+      },
+      {
+        "Title": "Anemia",
+        "Pathophysiology": "Decreased red blood cells or hemoglobin, leading to reduced oxygen delivery to tissues.",
+        "Signs/Symptoms": "Fatigue, pallor, tachycardia, dizziness.",
+        "Diagnostics": "CBC (low hemoglobin/hematocrit), reticulocyte count, iron studies.",
+        "Treatment": "Iron supplementation for iron-deficiency anemia, blood transfusions for severe cases.",
+        "Nursing Care": "Educate on iron-rich foods, monitor for side effects of supplements (e.g., constipation, black stools).",
+        "Hint": [
+          "Focus on understanding the pathophysiology: Decreased red blood cells or hemoglobin, leading to reduced oxygen delivery to tissues.",
+          "Key symptoms include: Fatigue, pallor.",
+          "Remember treatments like: Iron supplementation for iron-deficiency anemia, blood transfusions for severe cases.."
+        ]
+      },
+      {
+        "Title": "Aplastic Anemia",
+        "Pathophysiology": "Bone marrow failure resulting in pancytopenia (deficiency of all blood cell types).",
+        "Signs/Symptoms": "Fatigue, bruising, recurrent infections, bleeding.",
+        "Diagnostics": "CBC (low RBCs, WBCs, platelets), bone marrow biopsy (hypocellular marrow).",
+        "Treatment": "Immunosuppressive therapy, bone marrow transplant, blood transfusions.",
+        "Nursing Care": "Monitor for infection and bleeding, provide emotional support, educate about avoiding infection risks.",
+        "Hint": [
+          "Focus on understanding the pathophysiology: Bone marrow failure resulting in pancytopenia (deficiency of all blood cell types).",
+          "Key symptoms include: Fatigue, bruising.",
+          "Remember treatments like: Immunosuppressive therapy, bone marrow transplant."
+        ]
+      }
+    ]
+  },
+  {
+    "Topic": "Integumentary and Cognitive/Sensory Disorders",
+    "Cards": [
+      {
+        "Title": "ATopic Dermatitis (Eczema)",
+        "Pathophysiology": "Chronic inflammatory skin condition associated with genetic predisposition, allergies, and immune dysregulation.",
+        "Signs/Symptoms": "Dry, itchy, red patches, often on face, elbows, knees; may ooze or crust.",
+        "Diagnostics": "Clinical evaluation, family history of allergies/asthma.",
+        "Treatment": "Emollients, Topical corticosteroids, antihistamines for itching, avoiding triggers.",
+        "Nursing Care": "Educate on skin hydration, avoidance of irritants, and proper use of medications.",
+        "Hint": [
+          "Focus on understanding the pathophysiology: Chronic inflammatory skin condition associated with genetic predisposition, allergies, and immune dysregulation.",
+          "Key symptoms include: Dry, itchy.",
+          "Remember treatments like: Emollients, Topical corticosteroids."
+        ]
+      },
+      {
+        "Title": "Lice (Pediculosis Capitis)",
+        "Pathophysiology": "Infestation of scalp by lice, causing irritation and secondary infection.",
+        "Signs/Symptoms": "Intense scalp itching, visible lice or nits on hair shafts.",
+        "Diagnostics": "Visual inspection.",
+        "Treatment": "Pediculicides (e.g., permethrin), nit combing, laundering clothing/bedding.",
+        "Nursing Care": "Teach families about lice prevention, retreatment schedule, and cleaning practices.",
+        "Hint": [
+          "Focus on understanding the pathophysiology: Infestation of scalp by lice, causing irritation and secondary infection.",
+          "Key symptoms include: Intense scalp itching, visible lice or nits on hair shafts..",
+          "Remember treatments like: Pediculicides (e.g., permethrin)."
+        ]
+      },
+      {
+        "Title": "Cellulitis",
+        "Pathophysiology": "Bacterial infection of the dermis and subcutaneous tissue, typically caused by Streptococcus or Staphylococcus species.",
+        "Signs/Symptoms": "Red, swollen, warm, tender area; fever, malaise.",
+        "Diagnostics": "Clinical exam, wound culture in severe cases.",
+        "Treatment": "Oral or IV antibiotics, elevation of affected limb.",
+        "Nursing Care": "Monitor for signs of systemic infection (e.g., sepsis), educate about wound care.",
+        "Hint": [
+          "Focus on understanding the pathophysiology: Bacterial infection of the dermis and subcutaneous tissue, typically caused by Streptococcus or Staphylococcus species.",
+          "Key symptoms include: Red, swollen.",
+          "Remember treatments like: Oral or IV antibiotics, elevation of affected limb.."
+        ]
+      },
+      {
+        "Title": "Impetigo",
+        "Pathophysiology": "Superficial bacterial skin infection, often caused by Staphylococcus aureus or Streptococcus pyogenes.",
+        "Signs/Symptoms": "Honey-colored crusted lesions, typically on face or extremities, highly contagious.",
+        "Diagnostics": "Clinical diagnosis, sometimes bacterial culture.",
+        "Treatment": "Topical or oral antibiotics (e.g., mupirocin, cephalexin).",
+        "Nursing Care": "Prevent spread by emphasizing hygiene, avoid sharing items like towels.",
+        "Hint": [
+          "Focus on understanding the pathophysiology: Superficial bacterial skin infection, often caused by Staphylococcus aureus or Streptococcus pyogenes.",
+          "Key symptoms include: Honey-colored crusted lesions, typically on face or extremities.",
+          "Remember treatments like: Topical or oral antibiotics (e.g., mupirocin."
+        ]
+      },
+      {
+        "Title": "Acne",
+        "Pathophysiology": "Inflammation of pilosebaceous units due to excess sebum, bacteria (Cutibacterium acnes), and clogged pores.",
+        "Signs/Symptoms": "Papules, pustules, cysts on face, back, chest.",
+        "Diagnostics": "Clinical examination.",
+        "Treatment": "Topical retinoids, benzoyl peroxide, antibiotics (Topical or oral), isotretinoin for severe cases.",
+        "Nursing Care": "Educate on skincare routine, potential side effects of medications (e.g., dryness, photosensitivity).",
+        "Hint": [
+          "Focus on understanding the pathophysiology: Inflammation of pilosebaceous units due to excess sebum, bacteria (Cutibacterium acnes), and clogged pores.",
+          "Key symptoms include: Papules, pustules.",
+          "Remember treatments like: Topical retinoids, benzoyl peroxide."
+        ]
+      },
+      {
+        "Title": "Down Syndrome",
+        "Pathophysiology": "Genetic condition caused by trisomy 21, leading to developmental and physical delays.",
+        "Signs/Symptoms": "Intellectual disability, hypotonia, characteristic facial features (e.g., flat nasal bridge, upward-slanting eyes), congenital heart defects.",
+        "Diagnostics": "Karyotype analysis, prenatal screening (e.g., nuchal translucency, amniocentesis).",
+        "Treatment": "Supportive therapies (speech, physical, occupational), management of associated medical conditions.",
+        "Nursing Care": "Monitor for congenital anomalies, provide family support, and promote developmental interventions.",
+        "Hint": [
+          "Focus on understanding the pathophysiology: Genetic condition caused by trisomy 21, leading to developmental and physical delays.",
+          "Key symptoms include: Intellectual disability, hypotonia.",
+          "Remember treatments like: Supportive therapies (speech, physical."
+        ]
+      },
+      {
+        "Title": "ASD (Autism Spectrum Disorder)",
+        "Pathophysiology": "Neurodevelopmental disorder affecting social communication and behavior, likely due to genetic and environmental factors.",
+        "Signs/Symptoms": "Delayed language development, repetitive behaviors, difficulty with social interaction, sensory sensitivities.",
+        "Diagnostics": "Developmental screening, Autism Diagnostic Observation Schedule (ADOS).",
+        "Treatment": "Behavioral therapy (ABA), speech therapy, educational support, medications for specific symptoms.",
+        "Nursing Care": "Encourage structured routines, support family with resources, and educate about early interventions.",
+        "Hint": [
+          "Focus on understanding the pathophysiology: Neurodevelopmental disorder affecting social communication and behavior, likely due to genetic and environmental factors.",
+          "Key symptoms include: Delayed language development, repetitive behaviors.",
+          "Remember treatments like: Behavioral therapy (ABA), speech therapy."
+        ]
+      },
+      {
+        "Title": "Fragile X Syndrome",
+        "Pathophysiology": "X-linked genetic disorder caused by a mutation in the FMR1 gene, leading to intellectual and developmental disabilities.",
+        "Signs/Symptoms": "Intellectual disability, hyperactivity, anxiety, elongated face, large ears, macroorchidism in males.",
+        "Diagnostics": "Genetic testing (FMR1 mutation analysis).",
+        "Treatment": "Speech, occupational, and behavioral therapies; medications for symptoms (e.g., ADHD, anxiety).",
+        "Nursing Care": "Support educational needs, provide family resources, and monitor for associated medical issues.",
+        "Hint": [
+          "Focus on understanding the pathophysiology: X-linked genetic disorder caused by a mutation in the FMR1 gene, leading to intellectual and developmental disabilities.",
+          "Key symptoms include: Intellectual disability, hyperactivity.",
+          "Remember treatments like: Speech, occupational."
+        ]
+      },
+      {
+        "Title": "Cognitive Impairment",
+        "Pathophysiology": "Generalized delay or impairment in intellectual functioning due to genetic, environmental, or acquired factors.",
+        "Signs/Symptoms": "Delayed milestones, difficulty learning, social withdrawal.",
+        "Diagnostics": "Developmental and cognitive assessments.",
+        "Treatment": "Tailored educational programs, therapies (speech, occupational, physical).",
+        "Nursing Care": "Educate families on resources, promote independence in activities of daily living (ADLs), and advocate for individualized education plans (IEPs).",
+        "Hint": [
+          "Focus on understanding the pathophysiology: Generalized delay or impairment in intellectual functioning due to genetic, environmental, or acquired factors.",
+          "Key symptoms include: Delayed milestones, difficulty learning.",
+          "Remember treatments like: Tailored educational programs, therapies (speech."
+        ]
+      }
+    ]
+  },
+  {
+    "Topic": "Respiratory, Immune/Infectious Diseases, and Vaccinations",
+    "Cards": [
+      {
+        "Title": "Asthma",
+        "Pathophysiology": "Chronic inflammatory airway disorder triggered by allergens, infections, or irritants, leading to bronchoconstriction and mucus production.",
+        "Signs/Symptoms": "Wheezing, coughing (especially at night), shortness of breath, chest tightness.",
+        "Diagnostics": "Spirometry, peak expiratory flow rates, allergen testing.",
+        "Treatment": "Bronchodilators (albuterol), inhaled corticosteroids, leukotriene modifiers.",
+        "Nursing Care": "Teach proper inhaler technique, develop an asthma action plan, monitor for triggers and early signs of exacerbation.",
+        "Hint": [
+          "Focus on understanding the pathophysiology: Chronic inflammatory airway disorder triggered by allergens, infections, or irritants, leading to bronchoconstriction and mucus production.",
+          "Key symptoms include: Wheezing, coughing (especially at night).",
+          "Remember treatments like: Bronchodilators (albuterol), inhaled corticosteroids."
+        ]
+      },
+      {
+        "Title": "CF (Cystic Fibrosis)",
+        "Pathophysiology": "Autosomal recessive disorder causing defective chloride transport, leading to thick mucus in lungs, pancreas, and other organs.",
+        "Signs/Symptoms": "Chronic cough, recurrent respiratory infections, greasy stools, failure to thrive.",
+        "Diagnostics": "Sweat chloride test, genetic testing.",
+        "Treatment": "Airway clearance (chest physiotherapy), pancreatic enzyme replacement, antibiotics, high-calorie diet.",
+        "Nursing Care": "Monitor respiratory function, ensure nutritional needs, educate families on infection prevention and home care.",
+        "Hint": [
+          "Focus on understanding the pathophysiology: Autosomal recessive disorder causing defective chloride transport, leading to thick mucus in lungs, pancreas, and other organs.",
+          "Key symptoms include: Chronic cough, recurrent respiratory infections.",
+          "Remember treatments like: Airway clearance (chest physiotherapy), pancreatic enzyme replacement."
+        ]
+      },
+      {
+        "Title": "Croup",
+        "Pathophysiology": "Viral infection causing inflammation of the larynx and trachea, leading to airway narrowing.",
+        "Signs/Symptoms": "Barking cough, stridor, hoarseness, respiratory distress.",
+        "Diagnostics": "Clinical presentation, neck X-ray ('steeple sign').",
+        "Treatment": "Humidified air, corticosteroids (dexamethasone), nebulized epinephrine for severe cases.",
+        "Nursing Care": "Maintain a calm environment, monitor for respiratory distress, educate parents about home care.",
+        "Hint": [
+          "Focus on understanding the pathophysiology: Viral infection causing inflammation of the larynx and trachea, leading to airway narrowing.",
+          "Key symptoms include: Barking cough, stridor.",
+          "Remember treatments like: Humidified air, corticosteroids (dexamethasone)."
+        ]
+      },
+      {
+        "Title": "Epiglottitis",
+        "Pathophysiology": "Acute bacterial infection (often Haemophilus influenzae type B) causing inflammation and swelling of the epiglottis, leading to airway obstruction.",
+        "Signs/Symptoms": "Sudden onset of high fever, drooling, tripod positioning, muffled voice, stridor.",
+        "Diagnostics": "Lateral neck X-ray ('thumbprint sign'), clinical presentation.",
+        "Treatment": "Airway management, IV antibiotics, corticosteroids.",
+        "Nursing Care": "Do not attempt throat inspection, ensure emergency airway equipment is ready, administer medications promptly.",
+        "Hint": [
+          "Focus on understanding the pathophysiology: Acute bacterial infection (often Haemophilus influenzae type B) causing inflammation and swelling of the epiglottis, leading to airway obstruction.",
+          "Key symptoms include: Sudden onset of high fever, drooling.",
+          "Remember treatments like: Airway management, IV antibiotics."
+        ]
+      },
+      {
+        "Title": "OM (Otitis Media)",
+        "Pathophysiology": "Middle ear infection, often following upper respiratory infections, caused by bacteria or viruses.",
+        "Signs/Symptoms": "Ear pain, fever, irritability, pulling at ears, decreased hearing.",
+        "Diagnostics": "Otoscopic exam showing bulging or erythematous tympanic membrane.",
+        "Treatment": "Antibiotics (amoxicillin) for bacterial infections, analgesics for pain relief.",
+        "Nursing Care": "Educate families about proper medication use, encourage breastfeeding (protective against OM), monitor for complications like hearing loss.",
+        "Hint": [
+          "Focus on understanding the pathophysiology: Middle ear infection, often following upper respiratory infections, caused by bacteria or viruses.",
+          "Key symptoms include: Ear pain, fever.",
+          "Remember treatments like: Antibiotics (amoxicillin) for bacterial infections, analgesics for pain relief.."
+        ]
+      },
+      {
+        "Title": "Varicella (Chickenpox)",
+        "Pathophysiology": "Viral infection caused by the varicella-zoster virus, leading to widespread vesicular rash.",
+        "Signs/Symptoms": "Fever, malaise, itchy rash that progresses from macules to vesicles and crusts.",
+        "Diagnostics": "Clinical presentation, polymerase chain reaction (PCR) in atypical cases.",
+        "Treatment": "Supportive care (antihistamines, calamine lotion), acyclovir for high-risk patients.",
+        "Nursing Care": "Isolate to prevent spread, educate on preventing scratching to avoid secondary infections, ensure vaccination for prevention.",
+        "Hint": [
+          "Focus on understanding the pathophysiology: Viral infection caused by the varicella-zoster virus, leading to widespread vesicular rash.",
+          "Key symptoms include: Fever, malaise.",
+          "Remember treatments like: Supportive care (antihistamines, calamine lotion)."
+        ]
+      },
+      {
+        "Title": "MMR (Measles, Mumps, Rubella)",
+        "Pathophysiology": "Viral illnesses caused by separate viruses, transmitted via respiratory droplets, leading to systemic manifestations.",
+        "Signs/Symptoms": "Measles: Fever, cough, conjunctivitis, Koplik spots, maculopapular rash. Mumps: Swollen parotid glands, fever, headache, orchitis in males. Rubella: Mild fever, rash, lymphadenopathy, teratogenic in pregnancy.",
+        "Diagnostics": "Serologic testing, PCR.",
+        "Treatment": "Supportive care; no specific antiviral treatment.",
+        "Nursing Care": "Ensure vaccination, provide symptomatic relief, educate on infection control measures.",
+        "Hint": [
+          "Focus on understanding the pathophysiology: Viral illnesses caused by separate viruses, transmitted via respiratory droplets, leading to systemic manifestations.",
+          "Key symptoms include: Measles: Fever, cough.",
+          "Remember treatments like: Supportive care; no specific antiviral treatment.."
+        ]
+      },
+      {
+        "Title": "5th Disease (Erythema Infectiosum)",
+        "Pathophysiology": "Viral illness caused by parvovirus B19, leading to mild systemic symptoms and rash.",
+        "Signs/Symptoms": "'Slapped cheek' rash, lacy rash on body, fever, malaise.",
+        "Diagnostics": "Clinical presentation, serologic tests if needed.",
+        "Treatment": "Supportive care (antipyretics, hydration).",
+        "Nursing Care": "Educate families about self-limiting nature, avoid exposure to pregnant women (risk of fetal complications).",
+        "Hint": [
+          "Focus on understanding the pathophysiology: Viral illness caused by parvovirus B19, leading to mild systemic symptoms and rash.",
+          "Key symptoms include: 'Slapped cheek' rash, lacy rash on body.",
+          "Remember treatments like: Supportive care (antipyretics, hydration).."
+        ]
+      },
+      {
+        "Title": "Rheumatic Fever",
+        "Pathophysiology": "Autoimmune reaction following Group A streptococcal pharyngitis, affecting heart, joints, and CNS.",
+        "Signs/Symptoms": "Polyarthritis, carditis, erythema marginatum, Sydenham chorea, subcutaneous nodules.",
+        "Diagnostics": "Elevated ASO titers, Jones criteria, echocardiogram.",
+        "Treatment": "Antibiotics (penicillin), anti-inflammatories (NSAIDs), long-term prophylaxis for heart involvement.",
+        "Nursing Care": "Educate on completing antibiotics, monitor for cardiac complications, encourage follow-up care.",
+        "Hint": [
+          "Focus on understanding the pathophysiology: Autoimmune reaction following Group A streptococcal pharyngitis, affecting heart, joints, and CNS.",
+          "Key symptoms include: Polyarthritis, carditis.",
+          "Remember treatments like: Antibiotics (penicillin), anti-inflammatories (NSAIDs)."
+        ]
+      },
+      {
+        "Title": "Kawasaki Disease",
+        "Pathophysiology": "Systemic vasculitis of unknown cause, primarily affecting children under 5, potentially leading to coronary artery aneurysms.",
+        "Signs/Symptoms": "Prolonged fever (>5 days), conjunctivitis, strawberry tongue, swollen hands/feet, rash, cervical lymphadenopathy.",
+        "Diagnostics": "Clinical criteria, echocardiogram for coronary artery involvement.",
+        "Treatment": "IV immunoglobulin (IVIG), high-dose aspirin.",
+        "Nursing Care": "Monitor cardiac status, educate parents about signs of recurrence, ensure follow-up for echocardiograms.",
+        "Hint": [
+          "Focus on understanding the pathophysiology: Systemic vasculitis of unknown cause, primarily affecting children under 5, potentially leading to coronary artery aneurysms.",
+          "Key symptoms include: Prolonged fever (>5 days), conjunctivitis.",
+          "Remember treatments like: IV immunoglobulin (IVIG), high-dose aspirin.."
+        ]
+      },
+      {
+        "Title": "Vaccinations",
+        "Pathophysiology": "Stimulate the immune system to develop immunity against specific pathogens.",
+        "Signs/Symptoms": "Possible mild reactions (fever, redness at injection site).",
+        "Diagnostics": "N/A.",
+        "Treatment": "Administer vaccines according to the CDC schedule.",
+        "Nursing Care": "Educate families about vaccine importance, address concerns about side effects, monitor for anaphylaxis after administration.",
+        "Hint": [
+          "Focus on understanding the pathophysiology: Stimulate the immune system to develop immunity against specific pathogens.",
+          "Key symptoms include: Possible mild reactions (fever, redness at injection site)..",
+          "Remember treatments like: Administer vaccines according to the CDC schedule.."
+        ]
+      }
+    ]
+  },
+  {
+    "Topic": "Safety, Poisons, Communication, and Medication Administration",
+    "Cards": [
+      {
+        "Title": "Safety Hazards for Age Groups",
+        "Pathophysiology": "Children are at risk of age-appropriate injuries due to physical and cognitive development stages.",
+        "Examples": [
+          "Infants: Suffocation, falls, choking.",
+          "Toddlers: Poisoning, drowning, burns.",
+          "School-age: Sports injuries, traffic accidents.",
+          "Adolescents: Substance abuse, risky behaviors."
+        ],
+        "Nursing Care": "Provide education on safety measures (e.g., car seats, helmets), supervise activities, and childproof environments.",
+        "Hint": [
+          "Key focus: Children are at risk of age-appropriate injuries due to physical and cognitive development stages.",
+          "Examples include: Infants: Suffocation, falls, choking., Toddlers: Poisoning, drowning, burns.."
+        ]
+      },
+      {
+        "Title": "Abuse",
+        "Pathophysiology": "Physical, emotional, or sexual harm caused intentionally, often by caregivers or trusted individuals.",
+        "Signs/Symptoms": "Unexplained injuries, fear of adults, developmental delays, poor hygiene.",
+        "Diagnostics": "Physical exam, history, imaging (e.g., skeletal survey for fractures).",
+        "Treatments": "Remove child from harmful environment, provide psychological support, mandatory reporting.",
+        "Nursing Care": "Assess for signs of abuse, ensure safety, provide resources for family counseling.",
+        "Hint": [
+          "Key focus: Physical, emotional, or sexual harm caused intentionally, often by caregivers or trusted individuals.",
+          "Symptoms to note: Unexplained injuries, fear of adults.",
+          "Treatments involve: Remove child from harmful environment, provide psychological support."
+        ]
+      },
+      {
+        "Title": "Corrosives",
+        "Pathophysiology": "Ingestion of acidic or alkaline substances causes chemical burns to mucosal surfaces.",
+        "Signs/Symptoms": "Drooling, difficulty swallowing, vomiting, abdominal pain.",
+        "Diagnostics": "Endoscopy to assess esophageal damage.",
+        "Treatments": "Do not induce vomiting; manage airway, administer IV fluids, and consider surgery for severe damage.",
+        "Nursing Care": "Educate on safe storage of household chemicals, monitor for respiratory distress, and manage pain.",
+        "Hint": [
+          "Key focus: Ingestion of acidic or alkaline substances causes chemical burns to mucosal surfaces.",
+          "Symptoms to note: Drooling, difficulty swallowing.",
+          "Treatments involve: Do not induce vomiting; manage airway, administer IV fluids."
+        ]
+      },
+      {
+        "Title": "Hydrocarbons",
+        "Pathophysiology": "Aspiration or ingestion of hydrocarbons (e.g., gasoline, kerosene) leads to chemical pneumonitis and systemic toxicity.",
+        "Signs/Symptoms": "Coughing, choking, respiratory distress, CNS depression.",
+        "Diagnostics": "Chest X-ray, blood gas analysis.",
+        "Treatments": "Avoid inducing vomiting, provide oxygen, and manage respiratory symptoms.",
+        "Nursing Care": "Educate families on safe storage, monitor for respiratory complications.",
+        "Hint": [
+          "Key focus: Aspiration or ingestion of hydrocarbons (e.",
+          "Symptoms to note: Coughing, choking.",
+          "Treatments involve: Avoid inducing vomiting, provide oxygen."
+        ]
+      },
+      {
+        "Title": "Salicylates",
+        "Pathophysiology": "Aspirin overdose causes metabolic acidosis, respiratory alkalosis, and CNS effects.",
+        "Signs/Symptoms": "Tinnitus, hyperventilation, nausea, seizures.",
+        "Diagnostics": "Serum salicylate levels, blood gas analysis.",
+        "Treatments": "Activated charcoal, IV fluids, sodium bicarbonate for acidosis, hemodialysis in severe cases.",
+        "Nursing Care": "Monitor acid-base balance, educate parents about medication safety.",
+        "Hint": [
+          "Key focus: Aspirin overdose causes metabolic acidosis, respiratory alkalosis, and CNS effects.",
+          "Symptoms to note: Tinnitus, hyperventilation.",
+          "Treatments involve: Activated charcoal, IV fluids."
+        ]
+      },
+      {
+        "Title": "Acetaminophen",
+        "Pathophysiology": "Overdose causes liver toxicity due to glutathione depletion and accumulation of toxic metabolites.",
+        "Signs/Symptoms": "Nausea, vomiting, abdominal pain, jaundice (late sign).",
+        "Diagnostics": "Serum acetaminophen levels, liver function tests.",
+        "Treatments": "N-acetylcysteine (NAC) to replenish glutathione, supportive care.",
+        "Nursing Care": "Educate on proper dosing, monitor liver function, and provide emotional support to families.",
+        "Hint": [
+          "Key focus: Overdose causes liver toxicity due to glutathione depletion and accumulation of toxic metabolites.",
+          "Symptoms to note: Nausea, vomiting.",
+          "Treatments involve: N-acetylcysteine (NAC) to replenish glutathione, supportive care.."
+        ]
+      },
+      {
+        "Title": "Care for a Hospitalized Child",
+        "Pathophysiology": "Hospitalization disrupts the child\u2019s routine, causing stress and fear, especially regarding separation from parents and painful procedures.",
+        "Signs/Symptoms": "Regression, fear, withdrawal, or aggression.",
+        "Interventions": [
+          "Encourage parental involvement.",
+          "Maintain routines.",
+          "Provide comfort objects."
+        ],
+        "Nursing Care": "Explain procedures in age-appropriate terms, offer choices when possible, and provide emotional support.",
+        "Hint": [
+          "Key focus: Hospitalization disrupts the child\u2019s routine, causing stress and fear, especially regarding separation from parents and painful procedures.",
+          "Symptoms to note: Regression, fear.",
+          "Key interventions: Encourage parental involvement., Maintain routines.."
+        ]
+      },
+      {
+        "Title": "Developmentally Appropriate Communication",
+        "Infants": "Use soothing tones and maintain close physical contact to provide comfort.",
+        "Toddlers": "Use simple words, offer choices to foster a sense of control.",
+        "Preschoolers": "Use storytelling or play to explain procedures, address magical thinking.",
+        "School-Age Children": "Use diagrams or demonstrations, encourage questions to reduce anxiety.",
+        "Adolescents": "Communicate respectfully, include them in decision-making, address privacy concerns.",
+        "Hint": []
+      },
+      {
+        "Title": "Assessment Findings",
+        "Pathophysiology": "Regular assessments identify deviations from normal growth and development or acute/chronic conditions.",
+        "Key Components": [
+          "Infants: Head circumference, fontanels, reflexes.",
+          "Toddlers/Preschoolers: Growth milestones, language skills, behavior.",
+          "School-Age/Adolescents: Physical and emotional development, scoliosis screening, sexual maturity."
+        ],
+        "Nursing Care": "Use developmentally appropriate techniques, involve caregivers when assessing younger children, and document findings accurately.",
+        "Hint": [
+          "Key focus: Regular assessments identify deviations from normal growth and development or acute/chronic conditions."
+        ]
+      },
+      {
+        "Title": "Order of Assessment",
+        "Pathophysiology": "Tailored based on the child\u2019s age and developmental stage to reduce anxiety and ensure cooperation.",
+        "Approach": [
+          "Infants: Perform auscultation and less invasive parts first; leave uncomfortable tasks (e.g., reflexes) for last.",
+          "Toddlers/Preschoolers: Allow parent involvement, use distraction, assess noninvasively first.",
+          "Older Children/Adolescents: Explain procedures thoroughly, respect privacy, and assess head-to-toe."
+        ],
+        "Hint": [
+          "Key focus: Tailored based on the child\u2019s age and developmental stage to reduce anxiety and ensure cooperation.",
+          "Approaches include: Infants: Perform auscultation and less invasive parts first; leave uncomfortable tasks (e.g., reflexes) for last., Toddlers/Preschoolers: Allow parent involvement, use distraction, assess noninvasively first.."
+        ]
+      },
+      {
+        "Title": "Administering Medications",
+        "Pathophysiology": "Variations in metabolism, absorption, and elimination in children require weight-based dosing and precise calculation.",
+        "Key Considerations": [
+          "Oral Medications: Use syringes for accuracy, avoid mixing with essential foods.",
+          "IM/Subcutaneous: Use age-appropriate sites (e.g., vastus lateralis in infants).",
+          "IV Medications: Monitor site closely for infiltration and infection."
+        ],
+        "Nursing Care": "Double-check calculations, educate parents and older children about medication use, and assess for side effects or adverse reactions.",
+        "Hint": [
+          "Key focus: Variations in metabolism, absorption, and elimination in children require weight-based dosing and precise calculation.",
+          "Considerations: Oral Medications: Use syringes for accuracy, avoid mixing with essential foods., IM/Subcutaneous: Use age-appropriate sites (e.g., vastus lateralis in infants).."
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,53 @@
+/* PEDs Final Cards */
+.flashcard {
+  background: #e8f5e9;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  padding: 20px;
+  margin: 10px;
+  text-align: center;
+  font-size: 1.2rem;
+  cursor: pointer;
+  transition: transform 0.2s, border-color 0.3s;
+}
+
+#peds-container .card h4 {
+  font-size: 1.6rem;
+}
+
+.flashcard:hover {
+  transform: scale(1.05);
+}
+
+.flashcard .answer {
+  margin-top: 15px;
+  font-weight: normal;
+  font-style: italic;
+  text-align: left;
+  font-size: 1.4rem;
+}
+
+.flashcard .answer.hidden {
+  display: none;
+}
+
+.flashcard .question {
+  margin-top: 15px;
+  font-weight: bold;
+  font-size: 1.4rem;
+}
+
+/* Cards Row Layout for PEDs Final */
+.cards-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: center;
+}
+
+@media (max-width: 768px) {
+  .cards-row {
+    flex-direction: column;
+    align-items: center;
+  }
+}
